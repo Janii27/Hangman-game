@@ -1,1 +1,2 @@
-# Hangman-game-in-C-
+Hangman's Game is a very famous word game in which the player tries to guess a secret word. The player guesses one letter at a time, and is told where in the word does the letter appear or not appear. Whenever the player guesses a letter that is present in the word, all the occurences of that letter in the word are revealed. With every wrong answered letter, the player is striked to form a figurine of a hanged man. The player wins if the word is guessed currectly or loses if the number of maximum strikes are reached and the hanged man's figurine is made.
+This approach is to develop a console based Hangman's game through file handling approach in C++.  
